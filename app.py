@@ -19,7 +19,7 @@ PROGRAM = "BS Information Technology, 4th Year"
 SCHOOL = "Cebu Institute of Technology – University (CIT-U)"
 EMAIL = ""  # optional: add an email to show it in the sidebar
 GITHUB = "https://github.com/doydoyi"
-TAGLINE = "Futue circum et invenies."
+TAGLINE = "Hakuna Matata."
 PHOTO = "photo.jpg"  # put your photo next to app.py with this name
 
 SHORT_BIO = """4th-year BSIT student at CIT-U, focused on cybersecurity and programming."""
